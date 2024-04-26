@@ -36,7 +36,7 @@
 
 ###
 
-<p align="left"> From Santos,Brasil. <br><br>- 🔭 I’m working as Dot net Developer<br>- 📚 I'm currently learning Dev Ops</p>
+<p align="left"> From Santos,Brasil. <br><br>- 🔭 I’m working as .NET Developer<br>- 📚 I'm currently learning Dev Ops</p>
 
 ###
 
